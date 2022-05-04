@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+p
+{
+  text-decoration: underline; 
+}
+
+div
+{
+  border: 3px solid #1D3;
+  margin-bottom: 25px;
+}
